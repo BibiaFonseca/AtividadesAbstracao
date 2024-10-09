@@ -1,0 +1,14 @@
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\bin\Debug\net8.0\Atv 04 - Carros.exe
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\bin\Debug\net8.0\Atv 04 - Carros.deps.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\bin\Debug\net8.0\Atv 04 - Carros.runtimeconfig.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\bin\Debug\net8.0\Atv 04 - Carros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\bin\Debug\net8.0\Atv 04 - Carros.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\refint\Atv 04 - Carros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\Atv 04 - Carros.genruntimeconfig.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 04 - Carros\Atv 04 - Carros\obj\Debug\net8.0\ref\Atv 04 - Carros.dll

@@ -1,0 +1,14 @@
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\bin\Debug\net8.0\Atv 02 - Aluno.exe
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\bin\Debug\net8.0\Atv 02 - Aluno.deps.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\bin\Debug\net8.0\Atv 02 - Aluno.runtimeconfig.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\bin\Debug\net8.0\Atv 02 - Aluno.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\bin\Debug\net8.0\Atv 02 - Aluno.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\refint\Atv 02 - Aluno.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\Atv 02 - Aluno.genruntimeconfig.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 02 - Aluno\Atv 02 - Aluno\obj\Debug\net8.0\ref\Atv 02 - Aluno.dll

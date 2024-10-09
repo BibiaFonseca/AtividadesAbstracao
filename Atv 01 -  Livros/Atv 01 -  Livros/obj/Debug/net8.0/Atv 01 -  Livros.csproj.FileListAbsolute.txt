@@ -1,0 +1,14 @@
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\bin\Debug\net8.0\Atv 01 -  Livros.exe
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\bin\Debug\net8.0\Atv 01 -  Livros.deps.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\bin\Debug\net8.0\Atv 01 -  Livros.runtimeconfig.json
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\bin\Debug\net8.0\Atv 01 -  Livros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\bin\Debug\net8.0\Atv 01 -  Livros.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\refint\Atv 01 -  Livros.dll
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.pdb
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\Atv 01 -  Livros.genruntimeconfig.cache
+C:\Users\Bia\Desktop\Back End\POO\02 - Abstração\Atividades abstração\Atv 01 -  Livros\Atv 01 -  Livros\obj\Debug\net8.0\ref\Atv 01 -  Livros.dll
